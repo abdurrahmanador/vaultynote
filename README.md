@@ -30,7 +30,7 @@ A Flutter-powered, privacy-first note-taking app that lets you **secure your tho
 - **Sqflite** (Local database for persistent storage)
 - **Path** (For managing DB paths)
 
-##🧪 Planned Features
+## 🧪 Planned Features
 🔐 AES-256 note encryption
 
 ☁️ Optional cloud backup (end-to-end encrypted)
@@ -41,13 +41,4 @@ A Flutter-powered, privacy-first note-taking app that lets you **secure your tho
 
 🔍 Full-text note search
 
-## Folder Structure
-lib/
-├── main.dart
-├── module/
-│   ├── home/
-│   ├── setting/
-│   └── note/
-├── service/
-│   └── db_helper.dart
-└── util/
+
